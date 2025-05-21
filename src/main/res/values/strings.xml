@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDoApp_WellCodee</string>
+    <string name="delete_one_task">delete one task</string>
+</resources>
